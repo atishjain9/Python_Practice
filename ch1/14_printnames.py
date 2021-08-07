@@ -1,0 +1,1 @@
+print("Atish "*100)
